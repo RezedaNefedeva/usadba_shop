@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "232211652861",
+    "firebase_url": "https://fir-app-b34c5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-app-b34c5",
+    "storage_bucket": "fir-app-b34c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232211652861:android:90b2e756777b760e315e94",
+        "android_client_info": {
+          "package_name": "com.rezeda.firebaseApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN4V5AFO_wNbVlMJhWB1c4bgX1M00uLE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232211652861:android:b5eecf3dac637d04315e94",
+        "android_client_info": {
+          "package_name": "com.rezeda.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN4V5AFO_wNbVlMJhWB1c4bgX1M00uLE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232211652861:android:90a034f5bff429d0315e94",
+        "android_client_info": {
+          "package_name": "com.rezeda.usadba_myasnika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN4V5AFO_wNbVlMJhWB1c4bgX1M00uLE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

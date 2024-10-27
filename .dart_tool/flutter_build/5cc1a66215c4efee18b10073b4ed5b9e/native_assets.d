@@ -1,0 +1,1 @@
+ /Users/rezedanefedeva/Downloads/pojects/firebase_app/.dart_tool/flutter_build/5cc1a66215c4efee18b10073b4ed5b9e/native_assets.yaml: 
